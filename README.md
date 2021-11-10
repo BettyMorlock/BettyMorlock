@@ -2,9 +2,12 @@
 
 ## I'm a Embedded Systems Dev, Student, Teacher, and Support Enthusiast!!
 
-- 🌱 I’m currently learning everything 🤣
+* 🌱 I’m currently learning:
+  * Ruby
+  * x86/x64/Arm assembily
+  * Application security
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like turtles
 
 <br />
