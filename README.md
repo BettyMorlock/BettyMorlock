@@ -1,6 +1,6 @@
 ### Hi there, I'm Kasey - aka VexisMorlock 👋 
 
-## I'm a Embedded Systems Dev, Student, Theacher, and Support Enthusiast!!
+## I'm a Embedded Systems Dev, Student, Teacher, and Support Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
